@@ -12,7 +12,7 @@ This is a simple chatbot that read the chat
 # composer install
 ```
 
-Make sure to change your credential in the miniclip file\
+Make sure to change your credential in the minicli file\
 To get an Oauth token : [go here](https://twitchapps.com/tmi/)
 ```
 # ./minicli twitch
