@@ -20,3 +20,5 @@ To get an Oauth token : [go here](https://twitchapps.com/tmi/)
 
 ## More on minicli
 [Minicli](https://github.com/minicli/minicli)
+
+Credit goes to Erika Heidi and her great post on [Dev.to](https://dev.to/erikaheidi/creating-a-twitch-irc-chatbot-in-php-with-minicli-45mo)
